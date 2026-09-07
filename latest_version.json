@@ -1,5 +1,5 @@
 {
-  "version": "8.29",
-  "download_url": "https://raw.githubusercontent.com/Maki3633/refaund-manager-updates/main/refaund_manager_v8_29.zip",
-  "notes": "Refaund Manager 8.29 — додано автоматичне оновлення в один клік прямо з програми."
+  "version": "8.33",
+  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v8.33/Refaund_Manager_8_33_Portable.zip.zip",
+  "notes": "Refaund Manager 8.33 — покращено систему ліцензій та перевірку блокування і відновлення."
 }
