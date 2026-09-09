@@ -1,5 +1,5 @@
 {
-  "version": "8.40",
-  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v8.40/Refaund_Manager_8_40.exe",
-  "notes": "Refaund Manager 8.40 — виправлено замовлення, чекбокси, статуси та збереження даних."
+  "version": "8.41",
+  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v8.41/Refaund_Manager_8_41.exe",
+  "notes": "Refaund Manager 8.41 — вкладення, розумні нагадування, покращений мультивалютний фінансовий огляд, список Що нового, кнопка Вийти та безпечне збереження даних при оновленні."
 }
