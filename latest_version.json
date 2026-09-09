@@ -1,5 +1,5 @@
 {
-  "version": "8.34",
-  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v8.34/Refaund_Manager_8_34.exe",
-  "notes": "Refaund Manager 8.34 — стабільний Device ID, адреса замовлення, окрема валюта та виправлена система автооновлень."
+  "version": "8.35",
+  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v8.35/Refaund_Manager_8_35.exe",
+  "notes": "Refaund Manager 8.35 — повністю виправлено автоматичне оновлення: програма сама закривається, встановлює нову версію та запускається повторно."
 }
