@@ -1,5 +1,5 @@
 {
-  "version": "8.54",
-  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v8.54/Refaund_Manager_8_54.exe",
-  "notes": "Refaund Manager 8.54 — захищений вхід із кодом на email, рання перевірка існуючого акаунта, повернуте поле ліцензійного ключа та чіткіший масштабований інтерфейс."
+  "version": "8.55",
+  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v8.55/Refaund_Manager_8_55.exe",
+  "notes": "Refaund Manager 8.55 — хмарна синхронізація замовлень, товарів, сум, статусів, налаштувань і вкладень між пристроями одного акаунта."
 }
