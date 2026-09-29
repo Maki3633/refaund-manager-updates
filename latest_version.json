@@ -1,6 +1,6 @@
 {
   "version": "9.05",
-  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v9.05/Refaund_Manager_9_05.exe",
+  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v9.05/Refaund_Manager_9_05_UPDATER_FIX.exe",
   "sha256": "f0a2a859d41a9f1ad427cbb3d1700056b170cbaceeb6e0092925eab5057d5b11",
   "notes": "V9.05 — виправлено додавання власного розхідника та запуск автоматичного updater-а з папки, у назві якої є пробіли."
 }
