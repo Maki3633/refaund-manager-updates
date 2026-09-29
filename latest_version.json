@@ -1,6 +1,6 @@
 {
-  "version": "9.06",
-  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v9.06/Refaund_Manager_9_06_FINAL.exe",
-  "sha256": "464d60f927139e5faaa30f206c5c645a184c0b5aca50f0acc9211d713a523495",
-  "notes": "V9.06 FINAL — повністю приховане автоматичне оновлення без командних вікон, примусове завершення старого процесу та автоматичний запуск нової версії."
+  "version": "9.07",
+  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v9.07/Refaund_Manager_9_07.exe",
+  "sha256": "a8da43f92f3bf9f6cababb548eb1413861a2431055f082b1ed797450af6d582c",
+  "notes": "V9.07 — тест повністю прихованого автоматичного оновлення та автоматичного перезапуску. Функціонально ідентична V9.06 FINAL."
 }
