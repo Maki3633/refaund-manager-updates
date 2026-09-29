@@ -1,6 +1,6 @@
 {
-  "version": "9.07",
-  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v9.07/Refaund_Manager_9_07.exe",
-  "sha256": "a8da43f92f3bf9f6cababb548eb1413861a2431055f082b1ed797450af6d582c",
-  "notes": "V9.07 — тест повністю прихованого автоматичного оновлення та автоматичного перезапуску. Функціонально ідентична V9.06 FINAL."
+  "version": "9.08",
+  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v9.08/Refaund_Manager_9_08.exe",
+  "sha256": "6e856747830de7af49907232570166a26b8603517be098b4bdf0ff9970e49af8",
+  "notes": "V9.08 — авторизація зберігається після оновлення; додано необов’язковий локальний пароль програми в Налаштуваннях."
 }
