@@ -1,6 +1,6 @@
 {
-  "version": "9.09",
-  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v9.09/Refaund_Manager_9_09.exe",
-  "sha256": "c14d922e1226cb07b11ba3b73097437af80850aa4c012ba54db36cb56c58cd3b",
-  "notes": "V9.09 — виправлено падіння програми при запуску (super(): __class__ cell not found). Збережено авторизацію після оновлення та необов’язковий локальний пароль програми в Налаштуваннях."
+  "version": "9.10",
+  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v9.10/Refaund_Manager_9_10.exe",
+  "sha256": "761680c99a79c4480897c6af49a7218edccc67e5ca69438490d6226e018dbd50",
+  "notes": "V9.10 — виправлено падіння при запуску (super()); збережено авторизацію після оновлення та локальний пароль програми."
 }
