@@ -1,6 +1,6 @@
 {
-  "version": "9.10",
-  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v9.10/Refaund_Manager_9_10.exe",
-  "sha256": "761680c99a79c4480897c6af49a7218edccc67e5ca69438490d6226e018dbd50",
-  "notes": "V9.10 — виправлено падіння при запуску (super()); збережено авторизацію після оновлення та локальний пароль програми."
+  "version": "9.11",
+  "download_url": "https://github.com/Maki3633/refaund-manager-updates/releases/download/v9.11/Refaund_Manager_9_11.exe",
+  "sha256": "14c9128d5ff197326e323f33dc4c964f641563c250e491548ca0735efb00d6ac",
+  "notes": "V9.11 — закриття програми більше не скидає збережену сесію. При наступному запуску відкривається той самий акаунт; локальний пароль запитується лише якщо він увімкнений у Налаштуваннях."
 }
